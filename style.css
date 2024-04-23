@@ -85,12 +85,12 @@ body {
     background-color: var(--orange);
     cursor: pointer;
 } 
-a
+
 .botoes button:focus {
     color: var(--white);
     background-color: var(--light-grey);
 }
-
+a
 .card > a {
     display: block;
     width: 100%;
